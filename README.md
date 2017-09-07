@@ -6,11 +6,14 @@ Este projeto visa abranger a parte léxica de um compilador utilizando a ferrame
 ### Para Compilar
 A fim de compilar o projeto, digite os seguinte comando num terminal Linux:
 
-> make all
-
+```bash
+make all
+```
 
 ### Para Executar
 
 Para executar o projeto, basta digitar:
 
-> ./reconhecerNumeros
+```bash
+./reconhecerNumeros
+```
