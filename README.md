@@ -12,7 +12,7 @@ sudo apt-get install flex
 
 
 ### Para Compilar
-A fim de compilar o projeto, digite os seguinte comando num terminal Linux:
+A fim de compilar o projeto, digite o seguinte comando:
 
 ```bash
 make all
