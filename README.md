@@ -5,11 +5,11 @@
 ### Para Compilar
 	A fim de compilar o projeto, digite os seguinte comando num terminal Linux:
 
-	`make all`
+	> make all
 
 
 ### Para Executar
 
 	Para executar o projeto, basta digitar:
 
-	`./reconhecerNumeros`
+	> ./reconhecerNumeros
