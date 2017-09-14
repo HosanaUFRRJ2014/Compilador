@@ -1,4 +1,4 @@
-# Compilador
+# Lex
 
 Este projeto visa abranger a parte léxica e a parte sintática de um compilador utilizando as ferramentas FLEX e YACC.
 
